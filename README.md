@@ -19,7 +19,7 @@
 <!-- ABOUT ME -->
 ### About Me
 
-<img alt="Cat Gif" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" align="right" width=500 />
+<img alt="Cat Gif" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" align="right" width=400 />
 
 💻 Passionate about technology and programming challenges <br>
 💼 I'm currently working as a software developer with Java <br>
