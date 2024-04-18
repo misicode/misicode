@@ -3,17 +3,17 @@
 
 
 <!-- INTRODUCTION -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/misicode">
-    <img src="https://github.com/misicode/misicode/assets/88341114/2f1d703e-9357-4005-8d19-8a2c97799638" alt="Alessandra Mincia" width=290 />
+    <img src="https://github.com/misicode/misicode/assets/88341114/dab152df-117d-4bdc-8a53-0112368dcb71" alt="Alessandra Mincia" width=250 />
   </a>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://readme-typing-svg.demolab.com/demo/">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&center=true&duration=3000&pause=1000&color=D63FFF&random=false&width=435&height=30&lines=A+software+engineer;A+developer+and+designer;A+catlover" />
   </a>
-</p>
+</div>
 
 
 <!-- ABOUT ME -->
@@ -25,7 +25,7 @@
 💼 I'm currently working as a software developer with Java <br>
 📖 I'm currently learning about microservices with Spring Boot <br>
 🌸 I like to design and program in my free time <br>
-🎮 And also, I love science fiction movies, anime, video games and cats
+🎮 And also, I love terror movies, video games, anime and cats
 
 
 <!-- TECH STACK -->
