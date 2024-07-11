@@ -23,7 +23,7 @@
 
 💻 Passionate about technology and programming challenges <br>
 💼 I'm currently working as a software developer with Java <br>
-📖 I'm currently learning about microservices with Spring Boot <br>
+📖 I'm currently learning about Docker and cloud deployment <br>
 🌸 I like to design and program in my free time <br>
 🎮 And also, I love terror movies, video games, anime and cats
 
@@ -36,6 +36,7 @@
 ![Agular][angular-badge]
 ![React][react-badge]
 ![Android Studio][android-studio-badge]
+![Docker][docker-badge]
 ![MySQL][mysql-badge]
 ![PostgreSQL][postgresql-badge]
 ![MongoDB][mongodb-badge]
@@ -60,6 +61,7 @@
 [angular-badge]: https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=red&color=%231F1C31
 [react-badge]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&color=%231F1C31
 [android-studio-badge]: https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&color=%231F1C31
+[docker-badge]: https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&color=%231F1C31
 [mysql-badge]: https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&color=%231F1C31
 [postgresql-badge]: https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&color=%231F1C31
 [mongodb-badge]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&color=%231F1C31
