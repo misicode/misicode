@@ -23,7 +23,7 @@
 
 💻 Passionate about technology and programming challenges <br>
 💼 I'm currently working as a software developer with Java <br>
-📖 I'm currently learning about Docker and cloud deployment <br>
+📖 I'm currently learning about cloud with Azure <br>
 🌸 I like to design and program in my free time <br>
 🎮 And also, I love terror movies, video games, anime and cats
 
