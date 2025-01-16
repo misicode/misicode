@@ -11,7 +11,7 @@
 <div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&center=true&duration=3000&pause=1000&color=D63FFF&random=false&width=435&height=30&lines=A+software+engineer;A+developer+and+designer;A+catlover" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&center=true&duration=3000&pause=1000&color=D63FFF&random=false&width=435&height=30&lines=A+software+engineer;A+fullstack+developer;A+designer" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 💼 I'm currently working as a software developer with Java <br>
 📖 I'm currently learning about cloud with Azure <br>
 🌸 I like to design and program in my free time <br>
-🎮 And also, I love terror movies, video games, anime and cats
+🎮 And also, I love terror movies, video games and anime
 
 
 <!-- TECH STACK -->
